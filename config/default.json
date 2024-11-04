@@ -1,0 +1,26 @@
+{
+"DB_URI": "mongodb+srv://ayushmanpoddar589:YurGLrqufG53YTP6@clustertravelworld.ccnfo.mongodb.net/?retryWrites=true&w=majority&appName=ClusterTravelWorld",
+"APP_URL": "http://localhost:3000",
+"SESSION_SECRET": "ayushmandarbhangabihar",
+"PORT" : "4000",
+"EMAIL_CONFIG": {
+"user": "payushman374@gmail.com",
+"pass": "Chat@me123"
+},
+    "EMAIL_SMTP": {
+    "HOST": "smtp.ethereal.email",
+    "PORT": 587,
+    "AUTH": {
+      "USER": "jerad88@ethereal.email",
+      "PASS": "sfbyF9M8nkasdC55Us"
+    }
+  },
+
+  "SEND_SMS": {
+    "SID": "ACe703603b2c51e1fc2396d134c7267235",
+    "TOKEN": "d8e5987b50bdc1c132a02bdb4f5c72c6",
+    "NUMBER": "7889164664"
+  },
+  "JWTKEY":"ayushmanpoddardarbhangabihar"
+}
+                                      
